@@ -1,0 +1,2 @@
+# FlixPix
+Movie recommendation app
